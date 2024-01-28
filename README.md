@@ -22,3 +22,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 </table>
+
+<br />
+<p>You'll normally find me on this account, tinkering with bits and bobs. You can contact me under my other account, at <a href="https://echapman.dev">echapman.dev</a></p>
